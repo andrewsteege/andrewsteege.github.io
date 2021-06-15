@@ -58,7 +58,6 @@ header h1 {
 .bio {
     display: flex;
     flex-wrap: nowrap;
-    background-image: url("");
     font-weight: bold;
     font-size: 20px;
     color: var(--tertiary-color);
@@ -154,4 +153,9 @@ header nav ul li a:hover {
     border-radius: 15px;
     text-shadow: none;
   }
-  
+.pro1 .pro2 .pro3 .pro4 .pro5 a:hover {
+    background: var(--primary-color);
+    color: var(--secondary-color);
+    border-radius: 15px;
+    text-shadow: none;
+  }
